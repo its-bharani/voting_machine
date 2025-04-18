@@ -57,6 +57,9 @@ The primary goal of this project is to design and implement a functional electro
 ## Flowchart
 ![Flowchart](./flowchart.png)
 
+## Implementation
+![Implementation](./implementation.png)
+
 ## Improvements
 
 Potential future enhancements:
