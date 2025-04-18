@@ -52,10 +52,10 @@ The primary goal of this project is to design and implement a functional electro
 ---
 
 ## Block Diagram
-![Block Diagram](./assets/block_diagram.png)
+![Block Diagram](./block_diagram.png)
 
 ## Flowchart
-![Flowchart](./assets/flowchart.png)
+![Flowchart](./flowchart.png)
 
 ## Improvements
 
