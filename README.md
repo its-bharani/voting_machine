@@ -1,3 +1,8 @@
+├── README.md
+├── assets/
+│   ├── flowchart.png
+│   ├── block_diagram.png
+
 # FPGA-Based Electronic Voting Machine
 
 This project implements an electronic voting machine (EVM) using FPGA technology. The EVM is designed to cast, count, and display votes securely and efficiently using hardware features like pushbuttons, switches, and a 7-segment LED display.
