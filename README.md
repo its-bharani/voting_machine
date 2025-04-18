@@ -13,7 +13,6 @@ This project implements an electronic voting machine (EVM) using FPGA technology
 5. [Flowchart](#flowchart)
 6. [Improvements](#improvements)
 7. [Getting Started](#getting-started)
-8. [Contributors](#contributors)
 
 ---
 
