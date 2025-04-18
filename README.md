@@ -1,7 +1,3 @@
-├── README.md
-├── assets/
-│   ├── flowchart.png
-│   ├── block_diagram.png
 
 # FPGA-Based Electronic Voting Machine
 
