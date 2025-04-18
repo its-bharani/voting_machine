@@ -51,7 +51,7 @@ The primary goal of this project is to design and implement a functional electro
 ---
 
 ## Block Diagram
-![Block Diagram](./assets/block_diagram.png)
+![Block Diagram](C:\Users\mail2\OneDrive\Desktop\block_digram.png)
 
 ## Flowchart
 ![Flowchart](./assets/flowchart.png)
